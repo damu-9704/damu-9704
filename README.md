@@ -1,4 +1,3 @@
-![logo](https://github.com/SudhirPatil18/SudhirPatil18/blob/main/Developer.png)
 <h1 align="center">Hi 👋, I'm Damayanti Walikar</h1>
 <h3 align="center">A passionate Web developer from Solapur</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
